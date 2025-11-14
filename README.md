@@ -1,12 +1,13 @@
 # HR-Analyst-Dashboard
-HR Analytics Dashboard – Power BI (Complete Project)
+HR Analytics Dashboard – Power BI (Complete Project) - Youtube
 
 This project includes a comprehensive end-to-end HR Analytics Dashboard built in Power BI. It provides detailed insights into employee attrition across three major departments:
+
 ✔ Human Resources
 ✔ Research & Development
 ✔ Sales
 
-The dashboard is fully interactive and designed to help organizations analyze workforce trends, identify high-risk segments, and make informed HR decisions.
+The dashboard is fully interactive and designed to help organisations analyse workforce trends, identify high-risk segments, and make informed HR decisions.
 
 📌 Project Highlights
 
@@ -21,6 +22,7 @@ Role-wise attrition matrices for quick comparison
 Modern, gradient-based UI with consistent corporate styling
 
 📊 Department-wise Insights
+
 1️⃣ Human Resources
 
 63 employees | 12 attrition | 19% attrition rate
@@ -29,7 +31,7 @@ Majority attrition from HR job roles
 
 Strong concentration in the 26–35 age group
 
-Salary group <5K shows highest churn
+Salary group <5K shows the highest churn
 
 2️⃣ Research & Development
 
@@ -45,7 +47,7 @@ Salary band <5K dominates attrition
 
 446 employees | 92 attrition | 20.6% attrition rate
 
-Education: Marketing (38%) most affected
+Education: Marketing (38%) is the most affected
 
 High churn in Sales Executives (57) & Sales Representatives (33)
 
@@ -61,7 +63,6 @@ Age group 26–35 contributes the highest attrition
 
 🔹 Sales Department View
 
-(All screenshots are added to the repository for easy review.)
 
 🛠️ Tools Used
 
